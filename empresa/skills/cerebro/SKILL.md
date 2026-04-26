@@ -11,7 +11,7 @@ description: Carrega em paralelo os CLAUDE.md dos cérebros disponíveis em `~/b
 
 Detecta os cérebros presentes em `~/brains/` e lê o `CLAUDE.md` de cada um (1 mensagem, N tool calls Read em paralelo):
 
-- `fabianafurtadoff-second-brain/CLAUDE.md` — cérebro pessoal de Fabiana Furtado (agente: Aria)
+- `ariasystems-second-brain-pessoal/CLAUDE.md` — cérebro pessoal de Fabiana Furtado (agente: Aria)
 - `ariasystems-second-brain-time/CLAUDE.md` — cérebro do time (agente: Sansa)
 - `ariasystems-second-brain-diretoria/CLAUDE.md` — cérebro da diretoria (agente: Brian)
 
@@ -58,9 +58,9 @@ Default: `~/brains/{nome-do-cerebro}/CLAUDE.md`
 
 Se a sessão foi aberta fora de `~/brains/`, usar path absoluto:
 
-- `$HOME/brains/fabianafurtadoff-second-brain/CLAUDE.md`
-- `$HOME/brains/ariasystems-second-brain-time/CLAUDE.md`
-- `$HOME/brains/ariasystems-second-brain-diretoria/CLAUDE.md`
+- `$HOME/ffos/ffos-projects/brains/ariasystems-second-brain-pessoal/CLAUDE.md`
+- `$HOME/ffos/ffos-projects/brains/ariasystems-second-brain-time/CLAUDE.md`
+- `$HOME/ffos/ffos-projects/brains/ariasystems-second-brain-diretoria/CLAUDE.md`
 
 ---
 
