@@ -19,6 +19,21 @@ O email real de Fabiana é `fabiana.furtado@arosapp.ai`.
 | Time | Sansa | sansa | ariasystems-second-brain |
 | Diretoria | Brian | brian | ariasystems-diretoria |
 
-## Repo
+## Estrutura local (2026-04-26)
 
-`https://github.com/fabianafurtadoff/test-second-brain-pessoal-beta`
+Os 3 cérebros ficam em:
+
+```
+~/ffos/ffos-projects/brains/
+├── ariasystems-aria/          (pessoal — este)
+├── ariasystems-second-brain/  (time — pendente inicializar)
+└── ariasystems-diretoria/     (diretoria — pendente inicializar)
+```
+
+## Repos GitHub
+
+| Cérebro | URL |
+|---------|-----|
+| Pessoal (Aria) | `https://github.com/fabianafurtadoff/ariasystems-aria` |
+| Time (Sansa) | pendente |
+| Diretoria (Brian) | pendente |
