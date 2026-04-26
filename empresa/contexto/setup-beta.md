@@ -26,8 +26,8 @@ Os 3 cérebros ficam em:
 ```
 ~/ffos/ffos-projects/brains/
 ├── ariasystems-second-brain-pessoal/    (pessoal — este)
-├── ariasystems-second-brain-time/       (time — pendente GitHub)
-└── ariasystems-second-brain-diretoria/  (diretoria — pendente inicializar)
+├── ariasystems-second-brain-time/       (time)
+└── ariasystems-second-brain-diretoria/  (diretoria)
 ```
 
 ## Repos GitHub
@@ -35,5 +35,5 @@ Os 3 cérebros ficam em:
 | Cérebro | URL |
 |---------|-----|
 | Pessoal (Aria) | `https://github.com/fabianafurtadoff/ariasystems-second-brain-pessoal` |
-| Time (Sansa) | pendente |
-| Diretoria (Brian) | pendente |
+| Time (Sansa) | `https://github.com/fabianafurtadoff/ariasystems-second-brain-time` |
+| Diretoria (Brian) | `https://github.com/fabianafurtadoff/ariasystems-second-brain-diretoria` |
